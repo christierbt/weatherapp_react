@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 
-export default function CurrentWeather() {
+export default function Weather() {
   return (
     <div class="container">
       <form id="search-form">
@@ -65,7 +65,7 @@ export default function CurrentWeather() {
         </div>
       </form>
       <div class="source-code">
-        <a href="https://github.com/christierbt/Weather_App">
+        <a href="https://github.com/christierbt/weatherapp_react">
           Open Source Code
         </a>
         by Christie Rosenblatt

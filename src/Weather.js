@@ -67,7 +67,7 @@ export default function Weather() {
       <div class="source-code">
         <a href="https://github.com/christierbt/weatherapp_react">
           Open Source Code
-        </a>
+        </a>{" "}
         by Christie Rosenblatt
       </div>
     </div>
